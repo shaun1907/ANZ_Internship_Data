@@ -1,0 +1,5 @@
+
+1. xl['amount'].describe() #seeing data described to know the mean, max, min etc values on the selected column
+2. xl.columns #looking for columns
+3. xl['first_name'].unique() #checking individual unique values
+4.
